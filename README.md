@@ -1,5 +1,5 @@
-#Coffee Sales Shop
-Interactive Excel Dashboard analyzing coffee shop sales performance using Pivot Tables and Slicers.
+# 📊 Coffee Sales Intelligence Dashboard
+
 
 ## 📌 Project Overview
 This project presents an interactive Excel dashboard analyzing sales performance of a coffee shop business.  
